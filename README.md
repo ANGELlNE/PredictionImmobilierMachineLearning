@@ -61,8 +61,8 @@ Nous utilisons plusieurs modèles pour prédire les prix immobiliers :
 - **K plus proches voisins (KNN)**
 
 ## Contributeurs
-- **N. NGUYEN** - [GitHub](https://github.com/nguyenngocuyenchi) *(uyenchi.nguyenngoc04@gmail.com)*
-- **A. TAMILALAGAN** - [GitHub](https://github.com/ANGELlNE) *(tamilangeline@yahoo.com)*
+- **N.Ngoc Uyen Chi** - [GitHub](https://github.com/nguyenngocuyenchi) *(uyenchi.nguyenngoc04@gmail.com)*
+- **T.Angéline** - [GitHub](https://github.com/ANGELlNE) *(tamilangeline@yahoo.com)*
 
 Pour toute question ou suggestion, n'hésitez pas à nous contacter ou à ouvrir une issue sur le dépôt GitHub.
 
