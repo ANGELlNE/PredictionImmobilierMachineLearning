@@ -24,8 +24,8 @@ Avant d'utiliser ce projet, assurez-vous d'avoir installé les logiciels et bibl
 ## Installation
 1. Clonez le dépôt :
    ```bash
-   git clone https://github.com/ANGELlNE/projet_s6.git
-   cd projet_s6
+   git clone https://github.com/ANGELlNE/PredictionImmobilierMachineLearning.git
+   cd PredictionImmobilierMachineLearning
    ```
 2. Créez et activez un environnement virtuel :
    ```bash
